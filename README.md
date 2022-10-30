@@ -1,3 +1,3 @@
-### `React color picker`
+## React color picker
 
-### `npm start`
+### LIVE <a href="https://color-hex-picker.netlify.app/" target="blank">react_color_picker</a>
