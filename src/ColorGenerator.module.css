@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 200px;
+}
+
+.labelBox{
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.inputBox {
+    width: 100%;
+    padding: 10px;
+}
